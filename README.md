@@ -10,6 +10,13 @@ This system also provides a better way to connect with travel agents.
 This system also gives tour-related information, like which places are tourist attractions, cities, and provinces. 
 Tourists can also book tours through our tour and travel management system. This system also keeps a history of the places visited by its users and feedback on the service.
 ![image](https://github.com/Arnab-manna307/big_project/assets/175200201/d199150b-0abe-49f9-8e26-ff74cf594614)
-
+![image](https://github.com/Arnab-manna307/big_project/assets/175200201/6c270cd8-c984-4cc6-857d-7207958bd85e)
+![image](https://github.com/Arnab-manna307/big_project/assets/175200201/bbc4b96e-f260-4a94-8144-73678acccad1)
+![image](https://github.com/Arnab-manna307/big_project/assets/175200201/936be95f-e17f-4460-845e-9a60f6908c85)
+![image](https://github.com/Arnab-manna307/big_project/assets/175200201/c0f6f86e-724d-42c1-90d0-c114d7de2dd4)
+![image](https://github.com/Arnab-manna307/big_project/assets/175200201/349ec26d-b34f-4f62-a2f1-a5b7dece8091)
+![image](https://github.com/Arnab-manna307/big_project/assets/175200201/6920ff2b-98b0-4f6a-bd19-a5a7d2d274b2)
+![image](https://github.com/Arnab-manna307/big_project/assets/175200201/bd27ce00-978f-464c-8bf7-cec9673cc9b2)
+![image](https://github.com/Arnab-manna307/big_project/assets/175200201/5e58ce21-b3a5-4538-ae4a-0d3a7f67af74)
 
 
